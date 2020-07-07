@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">App menu</string>
+    <string name="product">товары</string>
+    <string name="service">услуги</string>
+    <string name="app">The app was created by order of our best Customers, we are very glad that is
+                         U choised our mobile app , we wish U have are nice using this app</string>
+    <string name="walter">hey U! welcome !</string>
+    <string name="arsh">arsh</string>
+    <string name="arsch"></string>
+    <string name="laptop_hp">LapTop HP price 500 $</string>
+    <string name="legion_price_700">legion price 700 $</string>
+    <string name="lap_top_samsung_price_1000">lap top Samsung price 1000 $</string>
+    <string name="repair">ремонт ваших гаджетов</string>
+    <string name="send">Доставка бытовых приборов</string>
+    <string name="IT">Обучаем все Программированию</string>
+    <string name="app2">приложения</string>
+</resources>
